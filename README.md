@@ -1,6 +1,5 @@
 ## Hi I'm Nacho 👋
 
-# 💫 About Me:
 🧠 Programming Student at UTN Avellaneda<br>💻 Interested in Full Stack Development & Software Architecture<br>⚙️ Working with Java, Spring Boot and React
 
 
